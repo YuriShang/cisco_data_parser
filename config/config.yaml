@@ -1,0 +1,6 @@
+user:
+  username: user
+  password: cisco
+device:
+  ip: 192.168.122.100
+  type: cisco_ios

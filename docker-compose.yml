@@ -1,0 +1,6 @@
+version: "3"
+services:
+  cisco_parser:
+    build: .
+    image: cisco_parser
+    command: python main.py
